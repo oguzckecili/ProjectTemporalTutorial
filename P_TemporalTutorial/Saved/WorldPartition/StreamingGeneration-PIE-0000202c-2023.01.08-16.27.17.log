@@ -1,0 +1,38 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/M_TemporalMainMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:188B0E5146CCE402B2F7EA97F5E15002 BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Weather_C_UAID_244BFE4ABF79E95A01_1193593209 Label:Ultra_Dynamic_Weather SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-124999938874.882 Y=-125000352714.766 Z=-125000352584.759), Max=(X=125000090008.442 Y=125000352754.766 Z=125000352884.736) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6DCBA7A54130BC4292B968B930285A90 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CA538E20465E85CFC33437B2773C3C9C BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Sky_C_UAID_244BFE4ABF79E95A01_1141888208 Label:Ultra_Dynamic_Sky SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-586661155700.466 Y=-523801766508.879 Z=-641125981319.791), Max=(X=586661217704.698 Y=523801677226.710 Z=641125875446.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:6DCBA7A54130BC4292B968B930285A90 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:CA538E20465E85CFC33437B2773C3C9C BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Sky_C_UAID_244BFE4ABF79E95A01_1141888208 Label:Ultra_Dynamic_Sky SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-586661155700.466 Y=-523801766508.879 Z=-641125981319.791), Max=(X=586661217704.698 Y=523801677226.710 Z=641125875446.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |   |- Guid:188B0E5146CCE402B2F7EA97F5E15002 BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Weather_C_UAID_244BFE4ABF79E95A01_1193593209 Label:Ultra_Dynamic_Weather SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-124999938874.882 Y=-125000352714.766 Z=-125000352584.759), Max=(X=125000090008.442 Y=125000352754.766 Z=125000352884.736) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/M_TemporalMainMap
+----------------------------------------------------------------------------------------------------------------
+M_TemporalMainMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 11 
+
+----------------------------------------------------------------------------------------------------------------
+M_TemporalMainMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
