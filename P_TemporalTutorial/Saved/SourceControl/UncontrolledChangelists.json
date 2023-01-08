@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/Maps/M_TemporalMainMap_HLODLayer_Instanced.uasset",
+				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/Maps/M_TemporalMainMap_HLODLayer_Merged.uasset",
+				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/__ExternalActors__/Maps/M_TemporalMainMap/8/5O/S0NIRGMD2AQXJAJERAZX6P.uasset",
+				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/__ExternalActors__/Maps/M_TemporalMainMap/D/LY/ZJVQHA1AU13DUP5OYFPZ1X.uasset",
+				"C:/Unreal Engine Projects/Third Person Projects/ProjectTemporalTutorial/P_TemporalTutorial/Content/Maps/M_TemporalMainMap.umap"
 			]
 		}
 	]
