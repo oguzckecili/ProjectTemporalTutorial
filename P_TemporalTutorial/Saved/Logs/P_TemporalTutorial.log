@@ -2372,3 +2372,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.08-13.27.32:715][610]LogPlayLevel: Display: Destroying online subsystem :Context_10
 [2023.01.08-13.28.23:419][145]Cmd: SELECT NONE
 [2023.01.08-13.28.28:795][763]Cmd: SELECT NONE
+[2023.01.08-13.35.32:614][557]LogDerivedDataCache: C:/Users/quirt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.106 and deleted 0 files with total size 0 MiB. Scanned 3728 files in 3714 folders with total size 230 MiB.
